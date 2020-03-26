@@ -11,8 +11,6 @@
 
 ![](https://raw.githubusercontent.com/github-denver/images/master/denver-world/images/001.jpg)<br>
 ![](https://raw.githubusercontent.com/github-denver/images/master/denver-world/images/002.jpg)<br>
-![](https://raw.githubusercontent.com/github-denver/images/master/denver-world/images/003.jpg)<br>
-![](https://raw.githubusercontent.com/github-denver/images/master/denver-world/images/004.jpg)<br>
 ![](https://raw.githubusercontent.com/github-denver/images/master/denver-world/images/005.jpg)<br>
 
 ## 아이템 강화 시뮬레이션 소개
